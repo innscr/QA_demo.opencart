@@ -2,7 +2,7 @@
 
 ## 📋 Project Overview
 
-Demo OpenCart is a sample e-commerce web application that offers basic online store functionalities such as browsing products, user registration, login, managing the shopping cart, and placing orders.  
+Demo OpenCart (https://demo.opencart.com/) is a sample e-commerce web application that offers basic online store functionalities such as browsing products, user registration, login, managing the shopping cart, and placing orders.  
 This project focuses on manual testing of key features that reflect real user scenarios in an online store environment.
 
 ---
