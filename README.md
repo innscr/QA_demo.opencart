@@ -20,9 +20,8 @@ This project focuses on manual testing of key features that reflect real user sc
 
 - The `test-cases/` folder contains detailed test cases organized by functionality (e.g., login, shopping cart).  
 - The `bug-reports/` folder includes sample bug reports with descriptions, reproduction steps, and screenshots.  
-- The `test-plan.md` file outlines the test scope, objectives, and test environment details.  
+- The `test_strategy/` folder includes pdf file which outlines the test scope, objectives, and test details.  
 - The `screenshots/` folder holds visual evidence collected during testing.  
-- Checklists to quickly verify core functionalities can be found in `checklists.md`.
 
 ---
 
