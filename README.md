@@ -18,10 +18,10 @@ This project focuses on manual testing of key features that reflect real user sc
 
 ## 📂 How to Use This Repository
 
-- The `test-cases/` folder contains detailed test cases organized by functionality (e.g., login, shopping cart).  
-- The `bug-reports/` folder includes sample bug reports with descriptions, reproduction steps, and screenshots.  
-- The `test_strategy/` folder includes pdf file which outlines the test scope, objectives, and test details.  
-- The `screenshots/` folder holds visual evidence collected during testing.  
+- The `Test_cases/` folder contains sample test cases organized by functionality (e.g., login, shopping cart).  
+- The `Bug_report/` folder includes sample bug report with descriptions, reproduction steps, and screenshots.  
+- The `Test_strategy/` folder includes pdf file which outlines the test scope, objectives, and test details.  
+- The `JIRA/` folder contains documentation related to reporting bugs in the JIRA system.  
 
 ---
 
