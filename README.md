@@ -23,6 +23,3 @@ This project focuses on manual testing of key features that reflect real user sc
 - The `Test_strategy/` folder includes pdf file which outlines the test scope, objectives, and test details.  
 - The `JIRA/` folder contains documentation related to reporting bugs in the JIRA system.  
 
----
-
-Feel free to explore the documents to understand the testing approach and use this repository as a reference for manual testing in other projects.
