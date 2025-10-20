@@ -1,2 +1,2 @@
-<h3> Sample test cases for the demo.opencart application can also be accessed via the following link: [Test Cases](https://docs.google.com/spreadsheets/d/1e2KN12l7H3h6SWYV7Ovsz7HwW5-LdTThc1EB6MepY/edit?usp=sharing) </h3>
+##### Sample test cases for the demo.opencart application can also be accessed via the following link: [Test Cases](https://docs.google.com/spreadsheets/d/1e2KN12l7H3h6SWYV7Ovsz7HwW5-LdTThc1EB6MepY/edit?usp=sharing) 
 
