@@ -1,0 +1,1 @@
+##### Sample test cases summary for the demo.opencart can also be accessed via the following link: [Test ceses summary](https://docs.google.com/spreadsheets/d/1LGpR4lYqE5M3e8tLuV5KFYZZi3yIWMbx/edit?usp=sharing&ouid=110450862247103090058&rtpof=true&sd=true)
